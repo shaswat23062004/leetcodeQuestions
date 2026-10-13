@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
