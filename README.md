@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
