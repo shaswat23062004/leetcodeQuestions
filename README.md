@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
