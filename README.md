@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/0013-roman-to-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/shaswat23062004/leetcodeQuestions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
